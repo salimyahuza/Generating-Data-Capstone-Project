@@ -20,7 +20,7 @@ For enhanced data visualization with statistical plots.
 ### Plotly:
 For interactive visualizations that can be embedded in web applications or Jupyter notebooks.
 
-### Visualizations
+## Visualizations
 ### Normal Distribution:
 A histogram displaying the normal distribution with a KDE curve.
 ### Time Series Data:
